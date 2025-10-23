@@ -16,6 +16,7 @@ permalink: /gamify/mansion5
     import { pythonURI, javaURI, fetchOptions } from '{{site.baseurl}}/assets/js/api/config.js';
 
     // Web Server Environment data
+	
     const environment = {
         path:"{{site.baseurl}}",
         pythonURI: pythonURI,
