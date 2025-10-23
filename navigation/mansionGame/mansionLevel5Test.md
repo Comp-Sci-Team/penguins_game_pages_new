@@ -11,7 +11,7 @@ permalink: /gamify/mansion5
 
 <script type="module">
     // Adnventure Game assets locations
-    import Game from "{{site.baseurl}}/assets/js/adventureGame/GameEngine/Game.js";
+    import Game from "{{site.baseurl}}/assets/js/mansionGame/GameEngine/Game.js";
     import MansionLevel5 from "{{site.baseurl}}/assets/js/mansionGame/mansionLevel5.js";
     import { pythonURI, javaURI, fetchOptions } from '{{site.baseurl}}/assets/js/api/config.js';
 
