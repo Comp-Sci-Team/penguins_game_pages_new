@@ -23,7 +23,7 @@ permalink: /gamify/mansion5
         fetchOptions: fetchOptions,
         gameContainer: document.getElementById("gameContainer"),
         gameCanvas: document.getElementById("gameCanvas"),
-        gameLevelClasses: [GameLevelBasic, GameLevelBasicWater]
+        gameLevelClasses: [MansionLevel5]
 
     }
     // Launch Adventure Game
