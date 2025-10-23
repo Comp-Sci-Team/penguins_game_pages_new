@@ -1,7 +1,7 @@
 // To build GameLevels, each contains GameObjects from below imports
 import GameEnvBackground from '{{site.baseurl}}./assets/js/mansionGame/GameEngine/GameEnvBackground.js';
-import Player from './GameEngine/Player.js';
-import GameControl from './GameEngine/GameControl.js'
+// import Player from './GameEngine/Player.js';
+// import GameControl from './GameEngine/GameControl.js'
 
 
 class MansionLevel5 {
