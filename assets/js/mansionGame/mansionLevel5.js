@@ -16,7 +16,7 @@ class MansionLevel5 {
 		name: 'background',
 		greeting: "This is the library, you will fight hordes of enemies, survive as long as possible.",
 		src: image_background,
-		pixels: {height: 900, width: 900}
+		pixels: {height: 1280, width: 720}
 	};
 
 	// Player data for character
